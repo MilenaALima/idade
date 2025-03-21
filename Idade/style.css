@@ -1,0 +1,53 @@
+body{
+    background-color: #1e88eb;
+    font-family: "Quicksand", serif;
+    height: 100vh; 
+    margin: 0; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    color: white;
+}
+
+section{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px #00000067;
+    padding: 15px;
+    width: 500px;
+
+}
+
+div{
+    font-size: 20px;
+    padding: 8px;
+}
+
+a{
+    background-color: #1c76ca;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #134f88;
+}
+
+#resposta {
+    text-align: center;
+}
+
+#foto {
+    padding: 15px;
+    width: 200px;
+}
+
+footer{
+    color: white;
+}
