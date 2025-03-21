@@ -28,11 +28,11 @@ O projeto "Idade" recebe os seguintes inputs do usuário:
 ---
 
 ## 📷 Demonstração  
-🔹 **Uma mulher jovem** 
+🔹 **Uma mulher jovem** <br>
 <img src="Idade/imagens/exemplo.png" width="300px">  
 
-🔹 **Um homem adulto**
+🔹 **Um homem adulto** <br>
 <img src="Idade/imagens/exemplo2.png" width="300px">  
 
-🔹 **Uma menina**  
+🔹 **Uma menina**  <br>
 <img src="Idade/imagens/exemplo3.png" width="300px">  
